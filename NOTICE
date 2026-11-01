@@ -1,0 +1,14 @@
+谐音键盘
+Copyright (c) 2026 菲律宾大野人
+
+本应用完全免费，不需要购买激活码。
+任何要求付费下载或购买激活码的渠道均未获得开发者许可。
+官方版本及校验值以本 GitHub 仓库的 Releases 页面为准。
+
+官方包名：com.xieyin.app
+官方签名证书 SHA-256：
+986C92B2798FD56A384B239E64C779ECC571C950E064EB77426AF1E3F18FAE85
+
+第三方词库：
+中文候选使用 Rime 的“袖珍简化字拼音”词库，源自 Android Open Source
+Project，并按 Apache License 2.0 使用。完整许可见 RIME_PINYIN_LICENSE.txt。
